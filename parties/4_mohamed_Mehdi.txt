@@ -1,0 +1,5 @@
+ID Partie: 4
+Joueur 1: mohamed
+Joueur 2: Mehdi
+Score Joueur 1: 100
+Score Joueur 2: 50

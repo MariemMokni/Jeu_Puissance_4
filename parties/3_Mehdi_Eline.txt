@@ -1,0 +1,5 @@
+ID Partie: 3
+Joueur 1: Mehdi
+Joueur 2: Eline
+Score Joueur 1: 50
+Score Joueur 2: 100

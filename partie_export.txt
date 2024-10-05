@@ -1,0 +1,6 @@
+Partie joueur1=Nom: Eline
+    identifiant: 1
+    Score: 70)
+, joueur2=Nom: Mehdi
+    identifiant: 2
+    Score: 80)

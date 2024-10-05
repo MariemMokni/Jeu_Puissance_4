@@ -1,0 +1,5 @@
+ID Partie: 1
+Joueur 1: Eline
+Joueur 2: Mehdi
+Score Joueur 1: 70
+Score Joueur 2: 80
